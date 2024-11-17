@@ -1,0 +1,19 @@
+- Instale as bibliotecas necessárias dentro de um ambiente pyenv
+
+```bash
+pyenv install 3.8.0
+pyenv shell 3.8.0
+python -m venv marioenv
+source marioenv/bin/activate
+pip install gym==0.21.0
+pip install gym-retro
+cp rom.sfc marioenv/lib/python3.8/site-packages/retro/data/stable/SuperMarioWorld-Snes/
+python marioRule.py
+```
+
+Sempre que quiser utilizar esse ambiente faça:
+
+```bash
+pyenv shell 3.8
+source marioenv/bin/activate
+```
