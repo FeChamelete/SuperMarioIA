@@ -1,14 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8FbybHbY)
 # Projeto: Super Mario World - Inteligência Artificial - 2023.Q3
 
-Prof. Fabrício Olivetti de França (folivetti@ufabc.edu.br)
 
-# marIA
-Felipe Luiz dos Santos Chamelete   11202021024
-
-Nicole Cantelli Afonso     21062314
-
-Rafael Bruno Ferreira Figueiredo      11034914
 
 ## Enunciado
 
@@ -39,13 +32,6 @@ python marioRule.py
 
 Se tudo der certo, aparecerá a tela do jogo com o jogador baseado em regras.
 
-## Grupos
-
-O projeto pode ser feito em até no máximo 03 pessoas. Será verificado a participação de cada membro do grupo através dos commits no repositório.
-
-## Entregas
-
-05/12/2023 - Entrega final: códigos, agente treinado, um README explicando qual o algoritmo utilizado e quais bibliotecas necessárias.
 
 **IMPORTANTE:** O README deve conter nome e RA do aluno.
 
